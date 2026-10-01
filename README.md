@@ -85,7 +85,7 @@ These are the extensions I use:
 | Data | Rainbow CSV |
 | Other languages | C/C++ Extension Pack, clangd, CMake Tools, LaTeX Workshop, Astro |
 
-The coding agents I prefer to use inside VS Code, rather than through their web apps, are Codex and Claude Code. In the past I loved Copilot, back when you still paid per message instead of per token. That meant you could squeeze the hell out of every agent request: you paid something like 8 cents for a request that burned through 5 or 10 million tokens, which was crazy.
+The coding agents I prefer to use inside VS Code, rather than through their web apps, are Codex and Claude Code. In the past I loved Copilot, back when you still paid per message instead of per token. That meant you could leverage the hell out of every agent request: you paid something like 8 cents for a request that burned through 5 or 10 million tokens, which was crazy.
 
 ## Project structure
 
