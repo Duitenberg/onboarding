@@ -1,4 +1,6 @@
-# Engineering onboarding
+# Pulling off a project in the Duitenberg Quant Committee?
+
+*An opinionated guide to building Python-based quant development projects*
 
 Welcome to the engineering onboarding guide for the Duitenberg Quantitative Finance Committee. Within our committee we mostly write code in Python and probably a bit of C++. This guide is specifically about writing Python. It is an overview of what I have learned over the last few years building our own research platform, plus my own Python experience.
 
